@@ -58,6 +58,10 @@ header {
     background-color: lightgray;
 }
 
+.bg-green {
+    background-color: #228B22;
+}
+
 .padding-20 {
     padding: 20px;
 }
@@ -72,6 +76,10 @@ header {
     background-color: #EE82EE;
 }
 
-.height {
+.height300 {
     height: 300px;
+}
+
+.height600 {
+    height: 600px;
 }
