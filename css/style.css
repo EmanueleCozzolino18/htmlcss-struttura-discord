@@ -44,6 +44,18 @@ header {
     background-color: #20B2AA;
 }
 
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
 .bg-gold {
     background-color: #DAA520;
 }
