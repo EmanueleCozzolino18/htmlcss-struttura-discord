@@ -26,10 +26,36 @@ header {
     width: 60%;
 }
 
+.col-100 {
+    width: 100%;
+}
+
 .bg-gold {
     background-color: #DAA520;
 }
 
+.bg-darkblue {
+    background-color: darkblue;
+}
+
 .border-dash {
     border: 1px dashed black;
+}
+
+.padding-10 {
+    padding: 10px;
+}
+
+.second-cont {
+    max-width: 1000px;
+    margin: auto;
+    background-color: blue;
+}
+
+.bg-purple {
+    background-color: #EE82EE;
+}
+
+.height {
+    height: 300px;
 }
