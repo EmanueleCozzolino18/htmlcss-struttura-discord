@@ -76,9 +76,18 @@ header {
     background-color: #23272A;
 }
 
+.bg-lightblue {
+    background-color: #7FFFD4;
+}
+
 .padding-20 {
     padding: 20px;
 }
+
+.padding-10 {
+    padding: 15px;
+}
+
 
 .second-cont {
     max-width: 1000px;
@@ -96,4 +105,18 @@ header {
 
 .height600 {
     height: 600px;
+}
+
+.height70px {
+    height: 70px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-space {
+    height: 40px;
+    width: 70px;
 }
