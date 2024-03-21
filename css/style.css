@@ -26,6 +26,10 @@ header {
     width: 60%;
 }
 
+.col-40 {
+    width: 40%;
+}
+
 .col-100 {
     width: 100%;
 }
@@ -38,12 +42,24 @@ header {
     background-color: darkblue;
 }
 
+.bg-blue {
+    background-color: #1E90FF;
+}
+
+.bg-pink {
+    background-color: #FFC0CB;
+}
+
 .border-dash {
     border: 1px dashed black;
 }
 
-.padding-10 {
-    padding: 10px;
+.bg-lightgray {
+    background-color: lightgray;
+}
+
+.padding-20 {
+    padding: 20px;
 }
 
 .second-cont {
