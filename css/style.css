@@ -34,6 +34,16 @@ header {
     width: 100%;
 }
 
+.col-2 {
+    width: calc(100% / 6 * 2);
+    background-color: #F08080;
+}
+
+.col-n {
+    width: calc(100% / 6);
+    background-color: #20B2AA;
+}
+
 .bg-gold {
     background-color: #DAA520;
 }
@@ -60,6 +70,10 @@ header {
 
 .bg-green {
     background-color: #228B22;
+}
+
+.bg-lightdark {
+    background-color: #23272A;
 }
 
 .padding-20 {
